@@ -4,6 +4,7 @@ on:
   pull_request:
     branches:
       - master
+      - ci-cd-test
 
 jobs:
   automation-test-job:
